@@ -7,11 +7,14 @@
 Let's see some sample code examples:
 
 1. Initializing the Git repository.
+
    ```
   $ git init
   Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
   ```
 2. JavaScript Code
-  ``` javascript
+
+   ```
+  javascript
   var myVar = "Hello, world!";
   ```
