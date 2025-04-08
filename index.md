@@ -9,12 +9,12 @@ Let's see some sample code examples:
 1. Initializing the Git repository.
 
    ```
-  $ git init
-  Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
-  ```
+   $ git init
+   Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+    ```
 2. JavaScript Code
 
    ```
-  javascript
-  var myVar = "Hello, world!";
-  ```
+   JavaScript Code
+   var myVar = "Hello, world!";
+   ```
